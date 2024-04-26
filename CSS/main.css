@@ -1,0 +1,13 @@
+.body {
+ font-family: SansRegular;
+}
+
+#timer-txt-init {
+ text-align: center;
+ display: flex;
+ justify-content: center;
+}
+
+#timer-txt {
+ 
+}
